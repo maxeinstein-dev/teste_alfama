@@ -16,11 +16,11 @@ Logo após subir o docker, execute a query existente no arquivo 'dump.sql' para 
 
 Nesse projeto será possível interagir entre as páginas, criar um usuário, fazer login, editar seus dados e deslogar.
 
-## ✒️ Autores
+## ✒️ Autor
 
 * **Maxsuel Einstein** - (https://github.com/maxeinstein-dev)
 
 ## 🎁 Expressões de gratidão
 
-* Desde já agradeço a oportunidade por ter participado deste teste e espero encontrá-los em breve.
+* Desde já agradeço a oportunidade por ter participado deste teste e espero encontrá-los num futuro breve.
   Até lá 😊
