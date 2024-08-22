@@ -1,6 +1,6 @@
 # Teste para Dev Full Stack para Alfama Web
 
-Desenvolvido um CRUD utilizando PHP, MySQL, HTML, Docker e o framework Bootstrap, seguindo o layout fornecido no Figma.
+Desenvolvido um CRUD utilizando PHP (8.1) , MySQL (8.0) , HTML, Docker e o framework Bootstrap (5.3), seguindo o layout fornecido no Figma.
 
 ## 🚀 Começando
 
