@@ -8,8 +8,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Ao fazer o clone do repositório em sua máquina execute em seu terminal para criar um container do docker:
 
-Se estiver usando windows -  `docker-compose up -d --build`
-Se estiver usando linux -  `sudo docker-compose up -d --build`
+Se estiver usando windows -  `docker-compose up -d --build` ou se estiver usando linux -  `sudo docker-compose up -d --build`
 
 Logo após subir o docker, execute a query existente no arquivo 'dump.sql' para criar a tabela de usuários.
 
