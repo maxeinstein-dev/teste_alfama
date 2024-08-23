@@ -8,7 +8,7 @@ CREATE TABLE `usuarios` (
     `cpf` varchar(14) DEFAULT NULL,
     `profession` varchar(100) DEFAULT NULL,
     `address` varchar(100) DEFAULT NULL,
-    `profile_image` blob DEFAULT NULL,
+    `profile_image` varchar(10000) DEFAULT NULL,
     PRIMARY KEY (`id`),
     UNIQUE KEY `email_UNIQUE` (`email`),
     UNIQUE KEY `cpf_UNIQUE` (`cpf`)
