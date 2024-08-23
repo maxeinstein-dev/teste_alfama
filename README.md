@@ -14,7 +14,13 @@ Logo após subir o docker, execute a query existente no arquivo 'dump.sql' para 
 
 ## ⚙️ Executando os testes
 
-Nesse projeto será possível interagir entre as páginas, criar um usuário, fazer login, editar seus dados e deslogar.
+Nesse projeto será possível: 
+
+* **Interagir entre as páginas**
+* **Criar usuários**
+* **Realizar login**
+* **Editar campos com seus dados e atualizar instantaneamente**
+* **Realizar Logout**
 
 ## ✒️ Autor
 
