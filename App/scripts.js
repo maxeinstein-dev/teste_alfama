@@ -88,7 +88,7 @@ $(document).ready(function () {
             $("#message_edit").html(showAlert("danger", response.message));
           }
         },
-        error: function (xhr, status, error) {},
+        error: function () {},
       });
     } else {
       $("#message_edit").html(showAlert("info", "Nenhum campo foi alterado."));

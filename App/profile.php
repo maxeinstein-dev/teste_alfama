@@ -58,11 +58,8 @@ $user = $stmt->fetch();
         <!-- Imagem de Perfil -->
         <div class="photo">
             <div class="photo-container">
-                <?php if (isset($profile_image)) { ?>
-                    <img src="<?php echo $profile_image; ?>" alt="Imagem de Perfil" class="profile-img">
-                <?php } else { ?>
-                    <img src="../assets/sem_imagem.png" alt="Imagem de Perfil" class="profile-img">
-                <?php  } ?>
+                <img src="<?php echo isset($profile_image) ? $profile_image : '../assets/sem_imagem.png' ?>"
+                    alt="Imagem de Perfil" class="profile-img" id="profile-img">
             </div>
 
             <div class="camera-icon" onclick="document.getElementById('avatar').click();">
